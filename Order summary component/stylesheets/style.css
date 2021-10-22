@@ -5,6 +5,11 @@
         padding: 10px;
         font-size: 16px;
         font-family: 'Red Hat Display', sans-serif;
+        background-size: contain;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
 
     .order-block {
@@ -100,7 +105,11 @@
         padding: 10px;
         font-size: 16px;
         font-family: 'Red Hat Display', sans-serif;
-        background-size: 100% 300px;
+        background-size: contain;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
 
     .order-block {
@@ -189,4 +198,9 @@
         background: none;
         font-size: 16px;
     }
+}
+
+footer {
+    text-align: center;
+    margin: 50px 0;
 }
