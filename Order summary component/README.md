@@ -1,3 +1,5 @@
+You can view this challenge on https://xenodochial-hodgkin-70360c.netlify.app/
+
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
